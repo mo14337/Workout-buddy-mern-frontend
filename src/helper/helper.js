@@ -1,1 +1,1 @@
-export const routePrefix= "http://localhost:4000"
+export const routePrefix= "https://workoutbuddy-mernapp1.onrender.com"

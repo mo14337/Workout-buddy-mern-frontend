@@ -10,6 +10,8 @@ import { routePrefix } from '../helper/helper'
 function Home() {
     const {workouts,dispatch}=useWorkoutContext()
     const {user}=useAuthContext()
+    const test=`${routePrefix}/api/workouts`
+    console.log(test);
 
     useEffect(() => {
         const fetchWorkouts = async () => {
