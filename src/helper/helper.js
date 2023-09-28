@@ -1,1 +1,1 @@
-export const routePrefix= "https://workoutbuddy-mernapp1.onrender.com"
+export const routePrefix= process.env.REACT_APP_BACKEND_URL

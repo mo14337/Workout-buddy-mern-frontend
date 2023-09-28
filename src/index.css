@@ -201,6 +201,7 @@ form.signup, form.login {
   }
   nav a {
     margin: 5px 0;
+    padding:5px ;
   }
   nav button {
     margin-top: 10px;
